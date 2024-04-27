@@ -3,15 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarrg&label=Profile%20views&color=0e75b6&style=flat" alt="nisarrg" /> </p>
 
-- 🔭 Recently, I worked on building [Asset Atlas - a react based admin dashboard page for tracking finances. It is available here:](https://github.com/nisarrg/dashboard-app)
+I am a Graduate Student at **Dalhousie University** pursuing **Masters of Applied Computer Science**. Before that I wored as a **Data Scientist** at [Scaler](https://www.scaler.com/us/academy/)
 
-- Indian Test Cricket Analyzer **This was a dashboard that provided insights about performance of Indian Cricket Team in test format. It can be found here:**
+You can reach me out by visiting my portfolio at [www.nisargkhacharia.online](https://www.nisargkhacharia.online/)
 
-- GitGPT Insights **The project provided insights of a GitHub repository using LLMs. It can be found here:**
+🔭 Recently, I worked on building [Asset Atlas - a react based admin dashboard page for tracking finances.](https://github.com/nisarrg/dashboard-app)
+
+Some of My Projects that I've worked on are:
+
+- **📈 GitGPT Insights** - The project provided insights of a GitHub repository using LLMs. It can be found [here:](Link)
+
+- 🏏 **Indian Test Cricket Analyzer** - This was a dashboard that provided insights about performance of Indian Cricket Team in test format. It can be found [here.](https://github.com/nisarrg/Visualization-Project)
+
+- 🧏🏻‍♂️ **Sign Language Recognition** - This is a Deep Neural Network model that recognizes motion-based sign language gestures used by Deaf communities. It can be found [here.](https://github.com/nisarrg/Sign-Language-Recognition-MotionBased-)
+
+- 👀 **Deep Facial Recognition** - It is custom Deep Learning Model (Siamese Neural Network) created from a research paper
+    named Siamese Neural Networks for One-shot Image Recognition.  It can be found [here.](https://github.com/nisarrg/Deep-Facial-Recognition)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://www.nisargkhacharia.online/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://www.nisargkhacharia.online/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nisarg-khacharia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisarg-khacharia" height="30" width="40" /></a>
 </p>
 
