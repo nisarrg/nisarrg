@@ -3,8 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarrg&label=Profile%20views&color=0e75b6&style=flat" alt="nisarrg" /> </p>
 
+- 🔭 Recently, I worked on building [Asset Atlas - a react based admin dashboard page for tracking finances. It is available here:](https://github.com/nisarrg/dashboard-app)
+
+- Indian Test Cricket Analyzer **This was a dashboard that provided insights about performance of Indian Cricket Team in test format. It can be found here:**
+
+- GitGPT Insights **The project provided insights of a GitHub repository using LLMs. It can be found here:**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://www.nisargkhacharia.online/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://www.nisargkhacharia.online/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nisarg-khacharia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisarg-khacharia" height="30" width="40" /></a>
 </p>
 
