@@ -7,11 +7,15 @@
 
 - Some of My Projects that I've worked on are:
 
-    - GitGPT Insights - The project provided insights of a GitHub repository using LLMs. It can be found [here:](Link)
+    - **📈 GitGPT Insights** - The project provided insights of a GitHub repository using LLMs. It can be found [here:](Link)
 
-    - Indian Test Cricket Analyzer - This was a dashboard that provided insights about performance of Indian Cricket Team in test format. It can be found [here.](https://github.com/nisarrg/Visualization-Project)
+    - 🏏 **Indian Test Cricket Analyzer** - This was a dashboard that provided insights about performance of Indian Cricket Team in test format. It can be found [here.](https://github.com/nisarrg/Visualization-Project)
 
-    - Sign Language Recognition - This is a Deep Neural Network model that recognizes motion-based sign language gestures used by Deaf communities. It can be found [here.](https://github.com/nisarrg/Sign-Language-Recognition-MotionBased-)
+    - 🧏🏻‍♂️ Sign Language Recognition - This is a Deep Neural Network model that recognizes motion-based sign language gestures used by Deaf       communities. It can be found [here.](https://github.com/nisarrg/Sign-Language-Recognition-MotionBased-)
+
+    - 👀 **Deep Facial Recognition** - It is custom Deep Learning Model (Siamese Neural Network) created from a research paper
+    named Siamese Neural Networks for One-shot Image Recognition.  It can be found [here.](https://github.com/nisarrg/Deep-Facial-Recognition)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
