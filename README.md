@@ -5,6 +5,8 @@
 
 I am a Graduate Student at **Dalhousie University** pursuing **Masters of Applied Computer Science**. Before that I wored as a **Data Scientist** at [Scaler](https://www.scaler.com/us/academy/)
 
+You can reach me out by visiting my portfolio at [www.nisargkhacharia.online](https://www.nisargkhacharia.online/)
+
 🔭 Recently, I worked on building [Asset Atlas - a react based admin dashboard page for tracking finances.](https://github.com/nisarrg/dashboard-app)
 
 Some of My Projects that I've worked on are:
@@ -21,7 +23,6 @@ Some of My Projects that I've worked on are:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.nisargkhacharia.online/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nisarg-khacharia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisarg-khacharia" height="30" width="40" /></a>
 </p>
 
