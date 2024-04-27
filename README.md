@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarrg&label=Profile%20views&color=0e75b6&style=flat" alt="nisarrg" /> </p>
 
-- 🔭 Recently, I worked on building [Asset Atlas - a react based admin dashboard page for tracking finances. It is available here:](https://github.com/nisarrg/dashboard-app)
+- 🔭 Recently, I worked on building [Asset Atlas - a react based admin dashboard page for tracking finances.](https://github.com/nisarrg/dashboard-app)
 
-- Indian Test Cricket Analyzer **This was a dashboard that provided insights about performance of Indian Cricket Team in test format. It can be found here:**
+- Some of My Projects that I've worked on are:
+
+    - Indian Test Cricket Analyzer - This was a dashboard that provided insights about performance of Indian Cricket Team in test format. It can be found [here.](https://github.com/nisarrg/Visualization-Project)
 
 - GitGPT Insights **The project provided insights of a GitHub repository using LLMs. It can be found here:**
 
